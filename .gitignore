@@ -1,0 +1,17 @@
+# Python
+.Python
+env
+venv
+/instance
+__pycache__
+*.pyc
+*.log
+Pipfile.lock
+
+# Operating System or Editor files
+.DS_Store
+.project
+.idea/
+
+# Flask-specific
+.webassets-cache
